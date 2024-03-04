@@ -1,6 +1,7 @@
 ## 👋 Hello Kitty
 
 ## 📫 How to contact me
-- **Email:** offpolicedev@gmail.com
-- **X (Twitter):** https://twitter.com/OFFpolice2077
+- **Telegram Channel:** https://t.me/OFFpoliceChannel
 - **Telegram:** https://t.me/OFFpolice
+- **X (Twitter):** https://twitter.com/OFFpolice2077
+- **Email:** offpolicedev@gmail.com
