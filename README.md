@@ -1,7 +1,5 @@
 ## 👋 Hi
 
 ## 📫 How to contact me
-- [**Telegram Channel**](https://t.me/OFFpoliceChannel)
-- [**Telegram Contact**](https://t.me/OFFpolice)
-- [**X (Twitter)**](https://twitter.com/OFFpolice2077)
-- [**Email**](offpolicedev@gmail.com)
+- [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/OFFpolice)
+- [![Twitter Badge](https://img.shields.io/twitter/follow/:OFFpolice2077)](https://x.com/OFFpolice2077
