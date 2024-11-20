@@ -1,4 +1,4 @@
-## 🌎 Hello World!
+# 🌎 Hello World!
 
 ![GIF](https://media.giphy.com/media/xT1XGzXhVuwj4hOmjC/giphy.gif)
 
