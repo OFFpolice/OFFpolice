@@ -4,7 +4,6 @@
 
 ## 📂 Мои репозитории:
 - [Anime-Rezka](https://github.com/OFFpolice/Anime-Rezka) - Telegram Bot Rezka.ag
-- [OFFpolice](https://github.com/OFFpolice/OFFpolice) - Hello World
 - [rezka_scraper](https://github.com/OFFpolice/rezka_scraper) - RezkaScraper — это мини библиотека на Python для асинхронного поиска контента (аниме, фильмов, сериалов и мультфильмов) на сайте Rezka.ag.
 
 ## 📫 How to contact me:
